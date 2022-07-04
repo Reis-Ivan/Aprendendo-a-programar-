@@ -1,2 +1,2 @@
 # Aprendendo-a-programar-
-Registro dos meus estudo de programação
+Registro dos meus estudos de programação
