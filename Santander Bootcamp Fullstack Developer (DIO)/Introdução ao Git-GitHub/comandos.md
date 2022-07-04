@@ -30,3 +30,6 @@
 
 `git commit-m "<mensagem>" ` 
 
+#### Enviar arquivos locais para o ambiente remoto
+
+`git push -u origin main`
