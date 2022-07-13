@@ -56,10 +56,15 @@ body {
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid lightgrey;
+
 }
 
 .group:nth-child(1) {
     min-height: 19rem;
+}
+
+.group:nth-child(2) {
+    margin-top: 1rem;
 }
 
 .instagram-logo {
@@ -94,9 +99,7 @@ body {
     color: rgb(160, 160, 160);
 }
 
-#confirm {
-    margin-bottom: 8px;
-}
+
 
 .link-blue {
     color: #0095f6;
