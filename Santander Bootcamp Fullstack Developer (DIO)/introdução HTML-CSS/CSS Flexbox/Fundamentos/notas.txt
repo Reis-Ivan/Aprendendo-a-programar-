@@ -1,0 +1,39 @@
+//Display flex
+-Torna a tag de um element do tipo flex.
+
+
+//Flex direction
+-Estabelece eixos principal do container.
+
+//Flex wrap
+-Define a quebra de linha.
+
+//Flex Flow
+-Atalho para flex direction e flex wrap.
+
+//Justift content
+-Alinhar os itens dentro do container de acordo com a direção pretendida.
+
+//Aling itens
+-Alinhamento dos flex itens de acordo com o container.
+
+//Aling content
+-Precisamos: queba de linha. Altura do container > soma das linhas do item.
+
+//Flex grow
+-Define a proporcionalidade de crescimento dos item respeitando o conteudo.
+
+//Flex basis
+-Estabelece o tamanho inicial do item.
+
+//Flex shrink
+-Estabelece a capacidade de redução/compressão do tamanho deu um item.
+
+//Flex
+-Abreviação
+
+//Order
+-Estabele ordem relativa ao elementos.
+
+//Aling self
+-Alinhamentos indivual, pode ter um "aling item" difinido.
